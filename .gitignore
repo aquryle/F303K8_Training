@@ -1,8 +1,10 @@
 /.DS_Store/
 /Thumbs.db/
 
-/build/
+/build/*
 *.launch
 
 !/build/F303K8_Training.hex
+!/build/F303K8_Training.elf
+
 
