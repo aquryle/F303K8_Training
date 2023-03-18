@@ -4,5 +4,5 @@
 /build/
 *.launch
 
-!F303K8_Training.hex
+!/build/F303K8_Training.hex
 
